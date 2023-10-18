@@ -1,0 +1,6 @@
+.env
+Some.py
+runner.py
+__pycache__/
+.pytest_cache
+.mypy_cache
